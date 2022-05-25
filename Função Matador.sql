@@ -28,4 +28,4 @@ BEGIN
     RETURN;
 RETURN;
 END
-$$ LANGUAGE plpgsql
+$$ LANGUAGE plpgsql  

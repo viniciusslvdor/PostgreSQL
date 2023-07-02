@@ -4,10 +4,10 @@
 <br>
 <br>
 
-## Função Matador
+## Killer
 >Função para Truncar todas as tabelas que não são nativas do PostgreSQL.
 
-## Função Ilike In Tables
+## Ilike In Tables
 >Função para procurar conteudo expecifico em determinada coluna de uma tabela.
 Exemplo: Quero procurar em que tabelas tem colunas que possui o valor 'João' no SCHEMA public: 
 
